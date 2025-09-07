@@ -126,7 +126,8 @@ document.addEventListener('DOMContentLoaded', () => {
             
             <p style="margin-top: 20px;"><strong>Recuerda:</strong> Esta evaluación es solo una guía. La única persona que puede determinar el tratamiento ideal para ti es un ortodoncista certificado.</p>
             
-            <a href="URL_DE_TU_SISTEMA_DE_AGENDAMIENTO" target="_blank" class="appointment-button">Agendar una cita en nuestra clínica</a>
+            <a href="https://t.dentalsoft.cl/reserva_online/src/public/index.php?clinica=YmQxMF9zYW5jaGV6eXZhc3F1ZXo=" target="_blank" class="appointment-button">Agendar una cita en nuestra clínica</a>
         `;
     }
+
 });
